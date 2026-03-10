@@ -20,7 +20,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Live-Site]()
+- Live Site URL: [Live-Site](https://social-links-profile-gamma-orcin.vercel.app/)
 
 ## My process
 
